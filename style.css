@@ -1,0 +1,33 @@
+
+.bos{
+    background-color:rgb(255, 181, 9);
+}
+
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    font-size: medium;
+}
+
+
+
+.big{
+    width: 100px;
+    height: 100px;;
+}
+
+.med{
+        width: 100px;
+        height: 100px;
+}
+
+.sm{
+    width: 100px;
+    height: 100px;
+}
